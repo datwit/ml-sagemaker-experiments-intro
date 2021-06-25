@@ -1,0 +1,27 @@
+Input Data
+
+https://us-east-1.console.aws.amazon.com/s3/object/sts-demo-datasets/msrpc.csv
+
+Shuffled training and validation splits
+
+https://console.aws.amazon.com/s3/buckets/sts-demo-datasets/sts-auto1/preprocessed-data/tuning_data/
+
+Transformed training and validation data
+
+https://console.aws.amazon.com/s3/buckets/sts-demo-datasets/sts-auto1/transformed-data/dpp4/rpb/
+
+Feature Engineering Code (Python)
+
+https://us-east-1.console.aws.amazon.com/s3/object/sts-demo-datasets/sts-auto1/sagemaker-automl-candidates/sts-auto1-pr-1-ebab40d128974ed49ec3ec231b517333ab6b3f2a70404cf9/generated_module/candidate_data_processors/dpp4.py
+
+Feature Engineering Model
+
+https://us-east-1.console.aws.amazon.com/s3/object/sts-demo-datasets/sts-auto1/data-processor-models/sts-auto1-dpp4-1-0812f265fab949cd90381c358089cf6a3bff610cb59e4e/output/model.tar.gz
+
+Algorithm Model
+
+https://us-east-1.console.aws.amazon.com/s3/object/sts-demo-datasets/sts-auto1/tuning/sts-auto1-dpp4-xgb/sts-auto1QKmJiuI2pbzSMGwTURlhSZM-177-77b1a1dd/output/model.tar.gz
+
+Explainability Artifacts
+
+https://console.aws.amazon.com/s3/buckets/sts-demo-datasets/sts-auto1/documentation/explainability/output/sts-auto1QKmJiuI2pbzSMGwTURlhSZM-177-77b1a1dd/
